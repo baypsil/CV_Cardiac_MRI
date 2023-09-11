@@ -6,4 +6,3 @@ Project Structure
 
     ├── notebooks   <- ipynb files (training code)
     ├── api-server   <- fast-api-docker for GCP
-    ├── webapp   <- streamlit front-end demo
